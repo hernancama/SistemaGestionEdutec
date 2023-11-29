@@ -1,0 +1,14 @@
+usuarios
+- nombres
+- apellidos
+- edad
+- dni
+- celular
+- correo
+- rol
+- cursos
+- pagos
+
+cursos
+- nombre
+- 
